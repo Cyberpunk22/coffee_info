@@ -1,0 +1,95 @@
+html, body{
+    margin: 0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+background: #F7F7F7;
+}
+
+header{
+    background-image:url(https://images.unsplash.com/photo-1455267847942-f4fdb784f0c5?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb);
+    background-size: cover;
+    height: 400px;
+    background-position: center center;
+
+}
+
+h1{
+    background-color: lightblue;
+    height: 80px;
+    text-align: center;
+    font-size: 80px;
+    margin: 0;
+    position: relative;
+    top: 20%;
+    line-height: 70px;
+    overflow: auto;
+}
+
+.city{
+    background-color: chocolate;
+}
+
+.light{
+    background-color: brown;
+}
+
+.roasting{
+    background-color: #FFFFFFFF;
+    width: 75%;
+    margin: 40px auto;
+    padding: 20px 30px 40px 30px;
+    overflow: auto;
+    border-radius: 4px;
+    align-self: center;
+}
+
+.roasting h3,h4,h5 {
+    text-align: left;
+    font-size: 20px;
+    line-height: 12px;
+}
+ .roasting p{
+     text-align: left;
+     line-height: 23px;
+     font-family: 'Raleway';
+     font-weight: 400px;
+     
+ }
+
+ .spectrum div{
+     padding: 15px 50px 30px;
+     color: whitesmoke;
+     overflow: auto;
+
+ }
+
+ ul{
+     margin: 0 auto;
+     padding: 0;
+     width: 75%;
+ }
+
+ li{
+     border-bottom: 1px solid goldenrod;
+     list-style: none;
+     margin: 80px 0px;
+     padding-bottom: 40px;
+ }
+
+ a{
+     color: black;
+     letter-spacing: 2px;
+     font-weight: 900px;
+     font-size: 13px;
+     
+     text-align: left;
+     text-transform: uppercase;
+     text-decoration: none;
+
+
+ }
+
+ ul li p{
+     line-height: 28px;
+     font-size: 20px;
+ }
